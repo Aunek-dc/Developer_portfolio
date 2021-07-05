@@ -5,8 +5,11 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .webhomename{
-    color: brown;
+    color:aqua;
 }
 section{
     display: flex;
+}
+img{
+    width: 700px;
 }
