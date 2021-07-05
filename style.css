@@ -1,9 +1,12 @@
-h1{
+.bodytag{
     padding-left: 95px;
     padding-top: 22px;
-    font-size: 50px;
+    font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
 .webhomename{
     color: brown;
+}
+section{
+    display: flex;
 }
