@@ -13,3 +13,11 @@ section{
 img{
     width: 700px;
 }
+.link_button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(orange,tomato);
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+}
