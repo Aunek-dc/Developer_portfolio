@@ -33,7 +33,6 @@ img{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    padding-bottom: 22%;
 }
 .Second-body{
     font-size: 25px;
@@ -49,4 +48,38 @@ img{
     font-weight: 700;
     border-radius: 5px;
     padding: 10px 20px;
+}
+.Exp{
+    padding-left: 20px;
+    font-size: 300%;
+}
+.Experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.Experience-area h1{
+    font-size: 250%;
+    color: aqua;
+}
+.Experience-area h3{
+    color: orange;
+}
+.box-plot{
+    box-shadow: 10px 10px 40px tomato;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    border-radius: 5px;
+}
+#first-box{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#sec-box{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato,orange);
+    border-image-slice: 1;
 }
